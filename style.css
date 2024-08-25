@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+
 * {
     padding: 0;
     margin: 0;
@@ -16,7 +18,8 @@ body {
 }
 
 h1 {
-    font-size: 50px;
+    font-family: "New Amsterdam";
+    font-size: 70px;
     text-align: center;
     margin-bottom: 24px;
 
