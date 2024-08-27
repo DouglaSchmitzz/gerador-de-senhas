@@ -1,4 +1,4 @@
-<h1 align="center">Gerador de senhas/ Password Generator<h1/>
+<h1 align="center">Gerador de senhas / Password Generator<h1/>
 
 <div align="center">
   <img height="400" width= "600" src="https://github.com/user-attachments/assets/0a64eb80-cf8f-4361-96c5-35f8de36c7bc"/>
