@@ -28,6 +28,7 @@ h1 {
 .container-input {
     max-width: 480px;
     margin: 14px 0;
+    position: relative;
 
 }
 
