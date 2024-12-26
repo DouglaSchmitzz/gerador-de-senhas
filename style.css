@@ -25,6 +25,7 @@ h1 {
 
 }
 
+/*Container de conteudo*/
 .container-input {
     max-width: 480px;
     margin: 14px 0;
@@ -37,6 +38,8 @@ h1 {
     font-size: 22px;
 }
 
+
+/*Barra arrastavel*/
 .slider {
     -webkit-appearance: none;
     width: 100%;
@@ -47,6 +50,7 @@ h1 {
     margin-top: 8px;
 }
 
+/*Botao gerar senha*/
 .button-cta {
     background-color: #3e25;
     border-radius: 8px;
